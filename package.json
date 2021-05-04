@@ -1,0 +1,22 @@
+{
+  "name": "hibayalasat_task4_operations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hibaya/HibayaLasat_task4.git"
+  },
+  "author": "HibayaLasat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hibaya/HibayaLasat_task4/issues"
+  },
+  "homepage": "https://github.com/Hibaya/HibayaLasat_task4#readme",
+  "dependencies": {
+    "pg": "^8.6.0"
+  }
+}
